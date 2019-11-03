@@ -1,0 +1,24 @@
+.has-element-at-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.has-item-centered {
+    display: flex;
+    justify-content: center;
+}
+
+
+.is-blue{
+    background-color: #062F4F;
+}
+
+.is-black-new{
+    background-color: #1d1919;
+}
+
+.image.is-200x200{
+    height: 200px;
+    width : 200px;
+}
